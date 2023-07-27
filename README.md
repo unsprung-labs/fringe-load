@@ -10,5 +10,7 @@ Simple Locust file for load-testing a specific website
 2. `cd` into that directory
 3. run `locust`
 4. open http://localhost:8089 in a browser
+5. enter the site _Host_, and set _Number of users_ to 50-100
+6. _Start swarming_
 
 More info: https://docs.locust.io/en/stable/quickstart.html
