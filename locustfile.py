@@ -21,7 +21,7 @@ class FringeUser(HttpUser):
 
     @task
     def load_schedule(self):
-        # https://minnesotafringe.org/schedule/2023?d=2023-08-03#schedule
+        # /schedule/2023?d=2023-08-03#schedule
         self.client.get(f"/schedule/{self.festival_year}?d={self.date}")
 
     @task
