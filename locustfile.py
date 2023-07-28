@@ -95,7 +95,7 @@ class FringeUser(HttpUser):
             '/shows/2023/omar-khayyam-club',
             '/shows/2023/open-mic-at-the-dream-shop-',
             '/shows/2023/opera-punks',
-            '/shows/2023/patolog-a-or-fagology-',
+            '/shows/2023/against-the-odds-rachel-carson-and-the-writing-of-silent-spring'
             '/shows/2023/pearl-and-eugene-one-last-shtick',
             '/shows/2023/phoenix-presents',
             '/shows/2023/pillow-talk',
